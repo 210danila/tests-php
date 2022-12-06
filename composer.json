@@ -1,0 +1,17 @@
+{
+    "name": "yogin/tests-php",
+    "authors": [
+        {
+            "name": "210danila",
+            "email": "210danila@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "webmozart/assert": "^1.11"
+    },
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    }
+}
