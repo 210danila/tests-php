@@ -1,5 +1,6 @@
 {
     "name": "yogin/tests-php",
+    "description": "php tests project for tests",
     "authors": [
         {
             "name": "210danila",
